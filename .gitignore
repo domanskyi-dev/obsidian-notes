@@ -1,0 +1,16 @@
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/app.json
+.obsidian/graph.json
+.obsidian/trash.json
+.obsidian/plugins/
+.obsidian/themes/
+
+.trash/
+*.tmp
+*.swp
+*.lock
+
+.DS_Store
+Thumbs.db
+desktop.ini
